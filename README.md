@@ -5,3 +5,5 @@
  ![image](https://github.com/Wzxhaha/ScrollChangeTextColor/raw/master/changeColor.gif)
  <div>
 </div>
+#####更加详细的讲解在
+[简书,点我啊](http://www.jianshu.com/p/aeb56b51032d)
