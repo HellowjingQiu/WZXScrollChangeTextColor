@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface changeColorView : UIView
--(instancetype)initWithFrame:(CGRect)frame andTitleArr:(NSArray *)titleArr;
+
+- (instancetype)initWithFrame:(CGRect)frame andTitleArr:(NSArray *)titleArr;
+
 @end
